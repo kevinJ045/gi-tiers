@@ -8,7 +8,7 @@ assets:
   folder: ./assets
 install:
   exec: 
-    pimmy: entry
+    gi-tiers: entry
   requirements: []
 types:
   - rew
