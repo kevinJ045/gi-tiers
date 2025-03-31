@@ -1,0 +1,14 @@
+manifest:
+  package: gi-tiers
+  private: false
+exec:
+  entry: main.coffee
+assets:
+  icon: assets/icon.png
+  folder: ./assets
+install:
+  exec: 
+    pimmy: entry
+  requirements: []
+types:
+  - rew
